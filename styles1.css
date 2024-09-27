@@ -1,0 +1,28 @@
+#c{
+background-color: blue;
+padding: 400px;
+margin-left: 150px;
+margin-right: 150px;
+margin-top: 150px;
+margin-right: 150px;
+align-items: center;
+align-content: center;
+    }
+
+#lol{  
+
+    padding: 190px;
+    background-color: brown;
+    align-items: center;
+    align-content: center;
+}
+
+#loca{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+  margin-right: 100px;
+    padding: 80px;
+    background-color: blueviolet;
+}
+    
